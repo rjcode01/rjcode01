@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Ranjan and I'm a Full Stack Developer.
+
+About me
+💜 Ranjan is a proficient full-stack developer with expertise in .NET Core, C#, JavaScript, SQL, and jQuery, adept at crafting innovative solutions across the stack with precision and finesse.
 
 <!--
 **rjcode01/rjcode01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
