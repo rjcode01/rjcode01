@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ranjan and I'm a Full Stack Developer.
 
-About me
+### About me
 💜 Ranjan is a proficient full-stack developer with expertise in .NET Core, C#, JavaScript, SQL, and jQuery, adept at crafting innovative solutions across the stack with precision and finesse.
 
 <!--
